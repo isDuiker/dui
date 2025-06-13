@@ -1,0 +1,21 @@
+{
+  "name": "@duiker/uil",
+  "version": "1.0.1",
+  "description": "一款功能丰富、高效易用的 UI 组件库,封装了常用的组件如Button,Dialog,Loading,Cascade,通知,位置,窗口等,旨在帮助开发者快速构建美观、交互流畅的用户界面.",
+  "keywords": [
+    "UI",
+    "组件",
+    "Button",
+    "Dialog",
+    "Loading",
+    "Cascade",
+    "通知",
+    "位置",
+    "窗口",
+    "用户界面"
+  ],
+  "main": "Index.ets",
+  "author": "dh",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
