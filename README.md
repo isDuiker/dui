@@ -7,11 +7,11 @@
 <p align="center">提供常用的UI组件，帮助开发者快速构建鸿蒙应用</p>
 
 <p align="center">
-    <a style="color:#0366d6;" onclick="openPage('#')">文档</a>
+    <a style="color:#0366d6;" onclick="openPage('https://github.com/isDuiker/dui')">文档</a>
     &nbsp;
     ·
     &nbsp;
-    <a style="color:#0366d6;" onclick="openPage('https://github.com/ibestservices/ibest-ui')">Github</a>
+    <a style="color:#0366d6;" onclick="openPage('https://github.com/isDuiker/dui')">Github</a>
 </p>
 
 ---
